@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TerroFlys
 - 👀 I’m interested in coding little projects :)
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on memory reading/writing
 - 📫 How to reach me Discord "TerroFlys#8340"
 

@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on memory reading/writing
 - 📫 How to reach me Discord "TerroFlys#8340"
+- 😍 Linked in: https://www.linkedin.com/in/chenko-mortier-a7593816a/
 
 <!---
 TerroFlys/TerroFlys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

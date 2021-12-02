@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @TerroFlys
 - 👀 I’m interested in coding little projects :)
 - 🌱 I’m currently learning Java
+- 📕 'Graduaat Programmeren'
+- 📘 Going to Thomas More
 - 💞️ I’m looking to collaborate on memory reading/writing
 - 📫 Contact me on Discord: "TerroFlys#2591"
 - 😍 Linked in: https://www.linkedin.com/in/chenko-mortier-a7593816a/

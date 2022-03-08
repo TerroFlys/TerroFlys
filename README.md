@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TerroFlys
-- 👀 I’m interested in coding little projects :)
+- 👀 I’m interested in coding projects :)
 - 🌱 I’m currently learning Java
 - 📕 'Graduaat Programmeren'
 - 📘 Thomas More

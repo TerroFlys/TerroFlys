@@ -6,6 +6,6 @@
 - 📕 'Graduaat Programmeren'
 - 📘 Thomas More
 - 💞️ I’m looking to collaborate on memory reading/writing
-- 📫 Contact me on through my website: [terroflys.com](https://terroflys.com)
+- 📫 Contact me through my website: [terroflys.com](https://terroflys.com)
 - 😍 Linked in: https://www.linkedin.com/in/chenko-mortier-a7593816a/
 

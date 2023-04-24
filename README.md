@@ -8,5 +8,5 @@
 - 💞️ I’m looking to collaborate on memory reading/writing
 - 📫 Contact me through my website: [terroflys.com](https://terroflys.com)
 - 😍 Linked in: https://www.linkedin.com/in/chenko-mortier-a7593816a/
-- 🔥 Currently doing my internship at [Formica Digital](https://www.formica.digital/)
+- 🔥 Currently doing my internship at <a href="https://www.formica.digital/" target="_blank">Formica Digital</a>!
 

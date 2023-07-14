@@ -1,12 +1,11 @@
 # Hey welcome to my profile!
 
 - 👋 Hi, I’m @TerroFlys
-- 👀 I’m interested in ASM
 - 🌱 Deepening skills in Spring Boot and Elastic. 
-- 📕 'Graduaat Programmeren'
-- 📘 Thomas More
-- 💞️ I’m looking to collaborate on memory reading/writing
-- 📫 Contact me through my website: [terroflys.com](https://terroflys.com)
+- 📘 Completed my studies in Programming at Thomas More - Campus De Nayer, Faculty of Engineering Technology - With "Grote onderscheiding" (Distinction)
+- 💞️ I’m looking to collaborate on memory reading/writing as wel as manipulating network packets
+- 🔥 Also deeply interested in Reverse engineering and ASM
+- 📫 Contact me through my website: [chenko.be](https://chenko.be)
 - 😍 Linked in: https://www.linkedin.com/in/chenko-mortier-a7593816a/
-- 🔥 Currently doing my internship at [Formica Digital](https://www.formica.digital/)!
+
 

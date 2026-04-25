@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @TerroFlys
-- 👀 I’m interested in coding little projects :)
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on memory reading/writing
-- 📫 How to reach me Discord "TerroFlys#8340"
+# Hey welcome to my profile!
 
-<!---
-TerroFlys/TerroFlys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @TerroFlys
+- 🌱 Deepening skills with servers/home labs. 
+- 📘 Completed my studies in Programming at Thomas More - Campus De Nayer, Faculty of Engineering Technology - With "Grote onderscheiding" (Distinction)
+- 💞️ I’m looking to collaborate on memory reading/writing as wel as manipulating network packets
+- 🔥 Also deeply interested in Reverse engineering and ASM
+
+
